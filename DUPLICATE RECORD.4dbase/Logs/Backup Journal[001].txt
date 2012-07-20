@@ -1,0 +1,7 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Documents:4D:Plugins:public:4d-component-duplicate-record:DUPLICATE RECORD.4dbase:DUPLICATE RECORD[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:Documents:4D:Plugins:public:4d-component-duplicate-record:DUPLICATE RECORD.4dbase:DUPLICATE RECORD[0000].4BL
+Scheduled : 12.07.20 15:26:47
+Starting : 12.07.20 15:26:47
+Ending : 12.07.20 15:26:47
+
